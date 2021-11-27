@@ -1,0 +1,9 @@
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\bin\Debug\P4_4_1204036.exe.config
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\bin\Debug\P4_4_1204036.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\bin\Debug\P4_4_1204036.pdb
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\obj\Debug\P4_4_1204036.csprojResolveAssemblyReference.cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\obj\Debug\P4_4_1204036.Form1.resources
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\obj\Debug\P4_4_1204036.Properties.Resources.resources
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\obj\Debug\P4_4_1204036.csproj.GenerateResource.Cache
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\obj\Debug\P4_4_1204036.exe
+C:\Users\NNaofal\OneDrive\Documents\TUGAS KULIAH\Pemrograman\P4_4_1204036\P4_4_1204036\obj\Debug\P4_4_1204036.pdb
